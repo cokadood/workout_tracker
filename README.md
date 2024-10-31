@@ -1,7 +1,6 @@
 # workout_git_tracker
 
-A new Flutter project.
-이 프로젝트는 State 관리를 학습하기 위해 제작되었습니다.
+git 실습중입니다.
 
 ## Getting Started
 
