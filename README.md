@@ -1,10 +1,10 @@
 # workout_git_tracker
 
-git 실습중입니다.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+이 프로젝트는 헬스를 사랑하는 헬린이들을 위한 운동 도움 어플입니다.
 
 A few resources to get you started if this is your first Flutter project:
 
